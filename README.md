@@ -23,5 +23,5 @@ attached file
 ```
 
 ## Postman
-- 1. Get All Hotel
+- 1. Get All Hotels
 
